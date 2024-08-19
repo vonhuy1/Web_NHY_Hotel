@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: dieuh
+Build-Jdk: 17.0.5
+Implementation-Title: NHYHotel
+Implementation-Version: v1.0
+Implementation-Vendor-Id: NHYHotel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/NHYHotel
+Created-By: Maven Integration for Eclipse
+
